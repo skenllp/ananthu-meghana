@@ -201,7 +201,8 @@ body {
 
 .bride-name,
 .groom-name {
-  font-family: var(--font-script);
+  font-family: var(--font-serif);
+  font-weight: 500;
   font-size: clamp(2.8rem, 7vw, 5rem);
   color: var(--cream);
   line-height: 1.1;
@@ -218,7 +219,8 @@ body {
 }
 
 .ampersand {
-  font-family: var(--font-script);
+  font-family: var(--font-serif);
+  font-weight: 500;
   font-size: clamp(1.5rem, 3vw, 2.2rem);
   color: var(--gold);
   display: block;
@@ -358,7 +360,8 @@ body {
 }
 
 .section-title {
-  font-family: var(--font-script);
+  font-family: var(--font-serif);
+  font-weight: 600;
   font-size: clamp(2rem, 5vw, 3.2rem);
   color: var(--blue-deep);
   margin-bottom: 16px;
