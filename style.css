@@ -1191,6 +1191,14 @@ body {
   margin: 16px 0;
 }
 
+.footer-phone {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: #ffffff;
+  margin: 0;
+  letter-spacing: 0.5px;
+}
+
 .footer-link {
   font-family: var(--font-caps);
   font-size: 0.75rem;
